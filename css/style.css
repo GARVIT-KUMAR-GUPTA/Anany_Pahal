@@ -3246,6 +3246,6 @@ animation: blink 3s linear infinite;
 }
 .sponsors img{
 	height: 200px;
-	width: 20%;
+	width: 100%;
 	align-items: center;
 }
